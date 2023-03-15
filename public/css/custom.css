@@ -21,3 +21,9 @@
 .screenshotImg {
     width: 40% !important;
 }
+
+.imgDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
