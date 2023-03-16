@@ -1458,7 +1458,7 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-link:hover {
-    color: #3631a1;
+    color: #f1be48;
     text-decoration: underline;
 }
 
@@ -2113,7 +2113,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #3631a1;
+    color: #f1be48;
     text-decoration: underline;
 }
 
@@ -2270,7 +2270,7 @@ a.text-primary:focus {
 
 .page-link:hover {
     z-index: 2;
-    color: #3631a1;
+    color: #f1be48;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;
