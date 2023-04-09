@@ -17,13 +17,3 @@
 .headerCompanyNameText {
     margin-left: 15px;
 }
-
-.screenshotImg {
-    width: 30% !important;
-}
-
-.imgDiv {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}

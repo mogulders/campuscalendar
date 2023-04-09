@@ -1113,7 +1113,7 @@ section {
     color: #c8102e;
 }
 .btn-link:hover {
-    color: #f1be48;
+    color: #3631a1;
     text-decoration: underline;
 }
 .btn-link.focus,
@@ -1662,7 +1662,7 @@ a {
 }
 a:focus,
 a:hover {
-    color: #f1be48;
+    color: #3631a1;
     text-decoration: underline;
 }
 .h1,
@@ -1790,7 +1790,7 @@ a.text-primary:hover {
 }
 .page-link:hover {
     z-index: 2;
-    color: #f1be48;
+    color: #3631a1;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;
